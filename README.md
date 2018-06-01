@@ -1,3 +1,3 @@
 # GPS-collar-reader
 
-![ScreenShot](https://imgur.com/a/QxsnhVW)
+![Imgur](https://i.imgur.com/Jhhqe2r.jpg)
