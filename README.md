@@ -1,3 +1,3 @@
 # GPS-collar-reader
 
-![alt text](https://imgur.com/a/QxsnhVW)
+![alt tag](https://imgur.com/a/QxsnhVW "Description goes here")
