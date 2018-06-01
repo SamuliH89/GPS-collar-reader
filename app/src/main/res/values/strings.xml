@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Bravo GPS</string>
+    <string name="checkbox">com.gpsv2.bravo.bravo_gps_v2.checkbox</string>
+    <string name="checkbox2">com.gpsv2.bravo.bravo_gps_v2.checkbox2</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="save">Save</string>
+    <string name="add_photo">Photo</string>
+    <string name="cell_phonenumber">Cell PhoneNumber</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="missing_gps">Collar</string>
+    <string name="missing_dog">Dog</string>
+    <string name="message">message</string>
+    <string name="nfc_content">NFC content:</string>
+    <string name="write_tag">Write tag:</string>
+    <string name="write">Write</string>
+    <string name="read_write_tag">Read/write TAG</string>
+    <string name="my_details">My details</string>
+    <string name="dog_data">Dog data</string>
+    <string name="alerts">Alerts</string>
+    <string name="hunting_experience">Hunting experience:</string>
+    <string name="race">Race</string>
+    <string name="serial">Serial number:</string>
+    <string name="warranty">Warranty valid until:</string>
+    <string name="missing_text">What did you miss?</string>
+    <string name="publish">Publish</string>
+    <string name="when">When?</string>
+    <string name="where">Where?</string>
+    <string name="type">Type:</string>
+    <string name="tagMessage">Tag message:</string>
+    <string name="id">ID:</string>
+    <string name="exitMsg">Are you sure you want to exit?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="credits">Credits</string>
+    <string name="made">Made by: Samuli J. Hulkkonen</string>
+
+
+</resources>

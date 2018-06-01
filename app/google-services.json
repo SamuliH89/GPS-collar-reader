@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "439839842802",
+    "firebase_url": "https://bravogpsv8.firebaseio.com",
+    "project_id": "bravogpsv8",
+    "storage_bucket": "bravogpsv8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439839842802:android:2c3338d896d59e42",
+        "android_client_info": {
+          "package_name": "com.gpsv2.bravo.bravo_gps_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439839842802-ffn1dami1rj5nv8oo0hbd5qhqcudeqj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gpsv2.bravo.bravo_gps_v2",
+            "certificate_hash": "e7dc5ea98dd2502f21f39e077da029441fbe32d2"
+          }
+        },
+        {
+          "client_id": "439839842802-0bqt9p9kj00isa23af72li4lmpsr6obc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAHCmxvCFk5JRpxkzEqU16SeBvI3m8fTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439839842802-0bqt9p9kj00isa23af72li4lmpsr6obc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

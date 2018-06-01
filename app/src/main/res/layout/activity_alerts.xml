@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/greeny"
+    tools:context="com.gpsv2.bravo.bravo_gps_v2.AlertsActivity">
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="24sp"
+        android:layout_centerVertical="true"
+        android:text="@string/missing_dog" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/checkBox"
+        android:layout_alignStart="@+id/checkBox"
+        android:layout_below="@+id/checkBox"
+        android:layout_marginTop="18dp"
+        android:text="@string/missing_gps"
+        android:textSize="24sp" />
+
+    <EditText
+    android:layout_width="200dp"
+    android:layout_height="40dp"
+    android:textAlignment="center"
+    android:background="@drawable/editstyle"
+    android:layout_below="@+id/checkBox2"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="23dp"
+    android:hint="@string/when"
+        android:id="@+id/editText7" />
+
+    <EditText
+        android:id="@+id/editWhere"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@+id/editText7"
+        android:layout_alignStart="@+id/editText7"
+        android:layout_below="@+id/editText7"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/editstyle"
+        android:hint="@string/where"
+        android:textAlignment="center" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_above="@+id/textView3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="27dp"
+        app:srcCompat="@drawable/alert" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/checkBox"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="@string/missing_text"
+        android:id="@+id/textView3" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/buttonshape"
+        android:onClick="save"
+        android:text="@string/publish"
+        android:textColor="#000000"
+        android:textSize="24sp" />
+</RelativeLayout>

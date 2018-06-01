@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bravo GPS</string>
+    <string name="checkbox">com.gpsv2.bravo.bravo_gps_v2.checkbox</string>
+    <string name="checkbox2">com.gpsv2.bravo.bravo_gps_v2.checkbox2</string>
+    <string name="date_of_birth">Data de nascimento</string>
+    <string name="save">Salve</string>
+    <string name="add_photo">Foto</string>
+    <string name="cell_phonenumber">Número do celular</string>
+    <string name="name">Nome</string>
+    <string name="address">Endereço</string>
+    <string name="missing_gps">GPS ausente</string>
+    <string name="missing_dog">Cão desaparecido</string>
+    <string name="message">mensagem</string>
+    <string name="nfc_content">Conteúdo NFC:</string>
+    <string name="write_tag">Escrever Tag:</string>
+    <string name="write">Escreva</string>
+    <string name="read_write_tag">TAG ações</string>
+    <string name="my_details">Meus detalhes</string>
+    <string name="dog_data">Dados do cão</string>
+    <string name="alerts">Alertas</string>
+    <string name="hunting_experience">Experiência de caça:</string>
+    <string name="race">Corrida</string>
+    <string name="serial">Número de série:</string>
+    <string name="warranty">Garantia válida até:</string>
+    <string name="missing_text">O que você sentiu falta?</string>
+    <string name="publish">Publicar</string>
+    <string name="when">Quando?</string>
+    <string name="where">Onde?</string>
+    <string name="type">Tipo:</string>
+    <string name="tagMessage">Tag mensagem:</string>
+    <string name="exitMsg">Você tem certeza que quer sair?</string>
+    <string name="yes">sim</string>
+    <string name="no">não</string>
+    <string name="credits">Créditos</string>
+    <string name="made">Feito por: Samuli J. Hulkkonen</string>
+</resources>

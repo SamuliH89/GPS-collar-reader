@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bravo GPS</string>
+    <string name="checkbox">com.gpsv2.bravo.bravo_gps_v2.checkbox</string>
+    <string name="checkbox2">com.gpsv2.bravo.bravo_gps_v2.checkbox2</string>
+    <string name="date_of_birth">Syntymäpäivä</string>
+    <string name="save">Lähetä</string>
+    <string name="add_photo">Kuva</string>
+    <string name="cell_phonenumber">Puhelinnumero</string>
+    <string name="name">Nimi</string>
+    <string name="address">Osoite</string>
+    <string name="missing_gps">GPS kateissa</string>
+    <string name="missing_dog">Koira kateissa</string>
+    <string name="message">viesti</string>
+    <string name="nfc_content">NFC sisältää:</string>
+    <string name="write_tag">Kirjoita TAG:iin:</string>
+    <string name="write">Kirjoita</string>
+    <string name="read_write_tag">Lue / kirjoita</string>
+    <string name="my_details">Tietoni</string>
+    <string name="dog_data">Koiran tiedot</string>
+    <string name="alerts">Varoitukset</string>
+    <string name="hunting_experience">Metsästyskokemus:</string>
+    <string name="race">Rotu</string>
+    <string name="warranty">Takuu voimassa:</string>
+    <string name="missing_text">Mitä kadotit?</string>
+    <string name="publish">Julkaise</string>
+    <string name="when">Milloin?</string>
+    <string name="where">Missä?</string>
+    <string name="type">Tyypi:</string>
+    <string name="tagMessage">Viesti:</string>
+    <string name="serial">Sarjanumero:</string>
+    <string name="exitMsg">Haluatko poistua?</string>
+    <string name="yes">Kyllä</string>
+    <string name="no">Ei</string>
+    <string name="credits">Tekijät</string>
+    <string name="made">Tekijä: Samuli J. Hulkkonen</string>
+
+</resources>
