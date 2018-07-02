@@ -2,7 +2,7 @@
 
 Introduction
 ------------
-This is an android app I created for startup company Bravo GPS. It features reading and writing information to GPS collar with NFC. With Firebase backend.
+This is an android app I created for startup company Bravo GPS. It features reading and writing information to dog GPS collar with NFC. With Firebase backend.
 
 
 Pre-requisites
