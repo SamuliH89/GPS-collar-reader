@@ -2,7 +2,7 @@
 
 Introduction
 ------------
-This is an android app I created for startup company Bravo GPS. It allows you to read and write information to the GPS collar with NFC. And save user and dog data to database.
+This is an android app I created for startup company Bravo GPS. It allows you to read and write information to GPS collar with NFC. And save user and dog data to database.
 
 
 Pre-requisites
